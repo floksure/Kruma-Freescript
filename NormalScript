@@ -1,0 +1,5 @@
+if game.PlaceId == 3956818381 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/floksure/kruma-script/main/ninja-legends')))()
+elseif game.PlaceId == 2753915549 then
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/floksure/kruma-script/main/Free-Bloxfruits')))()
+end
